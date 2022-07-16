@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-from-nomacoders-MovieApp/static/css/main.60df22d4.css",
-    "main.js": "/React-from-nomacoders-MovieApp/static/js/main.25332a9a.js",
+    "main.css": "/React-from-nomacoders-MovieApp/static/css/main.eac5935b.css",
+    "main.js": "/React-from-nomacoders-MovieApp/static/js/main.65cea4f9.js",
     "index.html": "/React-from-nomacoders-MovieApp/index.html",
-    "main.60df22d4.css.map": "/React-from-nomacoders-MovieApp/static/css/main.60df22d4.css.map",
-    "main.25332a9a.js.map": "/React-from-nomacoders-MovieApp/static/js/main.25332a9a.js.map"
+    "main.eac5935b.css.map": "/React-from-nomacoders-MovieApp/static/css/main.eac5935b.css.map",
+    "main.65cea4f9.js.map": "/React-from-nomacoders-MovieApp/static/js/main.65cea4f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.60df22d4.css",
-    "static/js/main.25332a9a.js"
+    "static/css/main.eac5935b.css",
+    "static/js/main.65cea4f9.js"
   ]
 }
