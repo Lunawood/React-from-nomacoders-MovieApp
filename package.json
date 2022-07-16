@@ -1,5 +1,5 @@
 {
-  "name": "06.react-practice-movieapp",
+  "name": "02.react-practice-movieapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Lunawood.github.io/React-from-nomadcoders"
+  "homepage": "https://Lunawood.github.io/React-from-nomacoders-MovieApp"
 }
